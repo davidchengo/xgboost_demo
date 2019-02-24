@@ -1,14 +1,12 @@
 #################################################################################
-# This demo is limited to explaining how xgboost works in R. 
+# This demo is to demonstrate how xgboost works in R. 
 # The problem was provided from a previous Kaggle competition. 
 # Scripts based on tutorials from Tianqi Chen, Tong He and Michaël Benesty
 # http://www.kaggle.com/c/otto-group-product-classification-challenge
 #################################################################################
 
-# Introduction
-# XGBoost is an implementation of the famous gradient boosting algorithm. The following demo includes a pipelined workflow of solving a product classification problems:
-# 1. Data Preparation
-# 2. 
+# XGBoost is an implementation of the famous gradient boosting algorithm.
+# The following demo includes a pipelined workflow of solving a product classification problem.
 
 options(java.parameters = "-Xmx10g")
 # set work directory
