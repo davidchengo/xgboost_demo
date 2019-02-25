@@ -3,11 +3,9 @@ Problem: Kaggle Otto Group Product Classification Challenge 2015. Multi-class (9
 
 ## Example results <br/>
 ### Feature ranking <br/>
-Top 20 Features
+### Top 20 Features <br/>
 ![](img/feature_importance_rel2first_20.png)
-
-Top 50 Features
+### Top 50 Features <br/>
 ![](img/feature_importance_rel2first_50.png)
-
-First two trees (for first two classes)
+### First two trees (for first two classes) <br/>
 ![](img/Screen%20Shot%202019-02-24%20at%207.45.24%20PM.png)
